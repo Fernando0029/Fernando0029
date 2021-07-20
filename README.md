@@ -2,5 +2,5 @@
 
 -mi nombre: es Juan Fernando Alvarez Hernandez
 - estoy aprendiendo en el curso de programacion web 
--vivi en mexico 
+-vivo en mexico 
 -tengo 17 años 
